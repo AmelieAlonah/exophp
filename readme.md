@@ -8,6 +8,6 @@
 - boucle sur la page marque/id pour afficher les produits de cette marque : requete sur les produits avec join?
 
 
-
+reste à faire :
 ### Page produit/id
 - affichage d'un produit sur la page produit/id
